@@ -11,6 +11,12 @@
 - [Linear Regression with Python](https://github.com/juliabulanaja/juliabulanaja/blob/master/Linear%20Regression%20with%20Python.png)
 - [Classification with Python](https://github.com/juliabulanaja/juliabulanaja/blob/master/Classification%20with%20Python.png)
 
+### Frontend:
+
+- [JavaScript, GoIT school](https://github.com/juliabulanaja/juliabulanaja/blob/master/Frontend.pdf)
+- [Vue](https://github.com/juliabulanaja/juliabulanaja/blob/master/Vue.pdf)
+- [Django + Vue](https://github.com/juliabulanaja/juliabulanaja/blob/master/Django%2BVue.pdf)
+
 
 ### Statistic:
 
