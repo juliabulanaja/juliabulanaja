@@ -1,10 +1,10 @@
 ## 
 
-### My certificates
+# My certificates
 
 ## Statistic:
 
-[Basics of statistics](https://github.com/juliabulanaja/juliabulanaja/blob/master/Basics%20of%20statistics.pdf)
+![Basics of statistics](https://github.com/juliabulanaja/juliabulanaja/blob/master/Basics%20of%20statistics.pdf)
 [Fundamentals of statistics. Part 2](https://github.com/juliabulanaja/juliabulanaja/blob/master/Fundamentals%20of%20statistics.%20Part%202.pdf)
 [Fundamentals of statistics. Part 3](https://github.com/juliabulanaja/juliabulanaja/blob/master/Fundamentals%20of%20statistics.%20Part%203.pdf)
 
