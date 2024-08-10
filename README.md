@@ -2,7 +2,7 @@
 
 ## My certificates
 
-[Basics of statistics](/juliabulanaja/blob/master/Basics%20of%20statistics.pdf)
+[Basics of statistics]([/juliabulanaja/blob/master/Basics%20of%20statistics.pdf](https://github.com/juliabulanaja/juliabulanaja/blob/master/Basics%20of%20statistics.pdf))
 
 [Fundamentals of statistics. Part 2](juliabulanaja/Fundamentals of statistics. Part 2.pdf)
 [Fundamentals of statistics. Part 3](juliabulanaja/Fundamentals of statistics. Part 2.pdf)
